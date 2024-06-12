@@ -5,7 +5,7 @@ const header = () => {
   return (
     <div className="flex justify-between">
       <div className="flex items-center justify-center gap-2">
-        <img src="./src/assets/logo.svg" alt="logo"></img>
+        <img src="./src/assets/Logo.svg" alt="logo"></img>
         <button className="bg-gradient-to-r from-orange-400 to-red-400 text-xs text-white px-1.5 py-1.5 rounded-2xl">Hoster is Hiring</button>
       </div>
       <ul className="hidden lg:flex justify-between font-lato text-gray-400 gap-6">
